@@ -124,3 +124,23 @@ super + {Left,Down,Up,Right}
 #Print
 Print
     maim ~/Pictures/$(date +%F-%T).png && maim | xclip -selection clipboard -t image/png
+
+# Увеличить яркость на 10%
+XF86MonBrightnessUp
+    brightnessctl set +10%
+
+# Уменьшить яркость на 10%
+XF86MonBrightnessDown
+    brightnessctl set 10%-
+
+# Увеличить звук на 5%
+XF86AudioRaiseVolume
+    pamixer -i 5
+
+# Уменьшить звук на 5%
+XF86AudioLowerVolume
+    pamixer -d 5
+
+# Включить/выключить звук (Mute)
+XF86AudioMute
+    pamixer -t
