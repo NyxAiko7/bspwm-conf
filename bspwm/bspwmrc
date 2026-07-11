@@ -28,3 +28,5 @@ feh --bg-fill $HOME/wall/wallhaven-1pkggg.png
 
 #picom
 picom &
+
+
