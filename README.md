@@ -2,7 +2,7 @@
 
 <h1 align="left">📘 About</h1> 
 
-<img src="./2026-07-11-17_46_37.png" alt="rice" align="right" width="500px" style="display: inline; margin-left: 20px;" />
+<img src="./2026-07-13-22_36_32.png" alt="rice" align="right" width="500px" style="display: inline; margin-left: 20px;" />
 
 * **OS:** [Artix Linux](https://artixlinux.org)
 * **WM:** [BSPWM](https://github.com)
@@ -16,4 +16,4 @@
 
 <!-- IMAGES -->
 # Gallery
-![](./2026-07-11-17_46_37.png)
+![](./2026-07-13-22_36_32.png)
